@@ -63,8 +63,10 @@ while True:
         continue
 ```
 ### OUTPUT:
-![image](https://github.com/AzeezBT/copy-file/assets/150319523/4bd8a58d-0e41-48d0-ab97-4ee44ac7677f)
-![image](https://github.com/AzeezBT/copy-file/assets/150319523/797f5056-4bdf-441a-8cf8-5571346f4daf)
+![image](https://github.com/AzeezBT/copy-file/assets/150319523/c3967b73-0eb7-4e8e-841b-8f9d66f22e7c)
+
+![image](https://github.com/AzeezBT/copy-file/assets/150319523/2bf041cb-62ed-4320-8e35-3f6c41c23057)
+
 
 
 
